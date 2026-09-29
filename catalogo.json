@@ -1,0 +1,38 @@
+{
+  "versaoDoFormato": 1,
+  "extensoes": [
+    {
+      "id": "pokepixel-ocultar-popups",
+      "nome": "PokePixel — ocultar popups",
+      "resumo": "Alt+B esconde os popups que aparecem ao passar o mouse: cartão do Pokémon, painel Análise e popup de itens.",
+      "atalho": "Alt+B",
+      "sites": ["pokepixel.nietore.com", "poke.idleworld.online"],
+      "codigo": "https://github.com/lioncodetech/pokepixel-ocultar-popups",
+      "versao": "1.1.0",
+      "pacote": "https://github.com/lioncodetech/pokepixel-ocultar-popups/releases/download/v1.1.0/pokepixel-ocultar-popups-1.1.0.zip",
+      "sha256": "97d03fd4fe4602ff7d49330bfbf00383c387ff56367bc88a236804cdfb4b5f59"
+    },
+    {
+      "id": "pokepixel-sem-grafico",
+      "nome": "PokePixel — sem gráfico",
+      "resumo": "Alt+G desliga o desenho do mapa. O jogo continua rodando; a interface continua na tela.",
+      "atalho": "Alt+G",
+      "sites": ["pokepixel.nietore.com", "poke.idleworld.online"],
+      "codigo": "https://github.com/lioncodetech/pokepixel-sem-grafico",
+      "versao": "1.0.0",
+      "pacote": "https://github.com/lioncodetech/pokepixel-sem-grafico/releases/download/v1.0.0/pokepixel-sem-grafico-1.0.0.zip",
+      "sha256": "80896a8e4bf6ad8021c5e296f5e8f080fb7516dbb733a25c2499c0dcee43b35c"
+    },
+    {
+      "id": "pokepixel-senha",
+      "nome": "PokePixel — senha",
+      "resumo": "Guarda a sua senha e a cola no campo de login com um botão. A senha fica em texto puro no computador: use só para este jogo.",
+      "aviso": "A senha é guardada sem senha-mestra. Quem usar o seu computador pode entrar na sua conta.",
+      "sites": ["pokepixel.nietore.com", "poke.idleworld.online"],
+      "codigo": "https://github.com/lioncodetech/pokepixel-senha",
+      "versao": "1.0.0",
+      "pacote": "https://github.com/lioncodetech/pokepixel-senha/releases/download/v1.0.0/pokepixel-senha-1.0.0.zip",
+      "sha256": "2c1be90e0d40e6e2d57a3dbadd8cd442c72dea17dc2e6932cfba4b2af1c83222"
+    }
+  ]
+}
