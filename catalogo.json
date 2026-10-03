@@ -32,16 +32,16 @@
     {
       "id": "pokepixel-senha",
       "nome": "PokePixel — senha",
-      "resumo": "Guarda a sua senha e a cola no campo de login com um botão. A senha fica em texto puro no computador: use só para este jogo.",
-      "aviso": "A senha é guardada sem senha-mestra. Quem usar o seu computador pode entrar na sua conta.",
+      "resumo": "Guarda o seu usuário e a sua senha e os cola nos campos de login com um botão. Ficam em texto puro no computador: use só para este jogo.",
+      "aviso": "O usuário e a senha são guardados sem senha-mestra. Quem usar o seu computador pode entrar na sua conta.",
       "sites": [
         "pokepixel.nietore.com",
         "poke.idleworld.online"
       ],
       "codigo": "https://github.com/lioncodetech/pokepixel-senha",
-      "versao": "1.0.0",
-      "pacote": "https://github.com/lioncodetech/pokepixel-senha/releases/download/v1.0.0/pokepixel-senha-1.0.0.zip",
-      "sha256": "2c1be90e0d40e6e2d57a3dbadd8cd442c72dea17dc2e6932cfba4b2af1c83222"
+      "versao": "1.1.0",
+      "pacote": "https://github.com/lioncodetech/pokepixel-senha/releases/download/v1.1.0/pokepixel-senha-1.1.0.zip",
+      "sha256": "93676ebece6cf136ab6254b349567b4a000dadcda69c04d26a05d190010d14f7"
     },
     {
       "id": "pokepixel-loja-rapida",
