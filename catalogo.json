@@ -54,9 +54,9 @@
         "poke.idleworld.online"
       ],
       "codigo": "https://github.com/lioncodetech/pokepixel-loja-rapida",
-      "versao": "1.14.0",
-      "pacote": "https://github.com/lioncodetech/pokepixel-loja-rapida/releases/download/v1.14.0/pokepixel-loja-rapida-1.14.0.zip",
-      "sha256": "b9fd72e96f1a08ecf328471e095c7121121cc0232aba561e2575f6bfd89d5d13"
+      "versao": "1.15.0",
+      "pacote": "https://github.com/lioncodetech/pokepixel-loja-rapida/releases/download/v1.15.0/pokepixel-loja-rapida-1.15.0.zip",
+      "sha256": "a1b56e29da34008178386937ca33b2fbcc3bff97ce150629103dc868acd02fbf"
     }
   ]
 }
