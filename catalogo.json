@@ -46,7 +46,7 @@
     {
       "id": "pokepixel-loja-rapida",
       "nome": "PokePixel — loja rápida",
-      "resumo": "Um botão por item da loja do Mark: você diz quanto quer ter de cada pokébola, poção e revive e ela compra só o que falta, na hora ou sozinha de tempos em tempos. Alt+C esconde, Alt+V mostra.",
+      "resumo": "Um botão por item da loja do Mark: você diz quanto quer ter de cada pokébola, poção e revive e ela compra só o que falta, na hora, de tempos em tempos ou uma vez dentro das faixas de horário que você marcar. Alt+C esconde, Alt+V mostra.",
       "aviso": "Automatiza uma ação do jogo. Se o PokePixel proibir automação, o risco é seu.",
       "atalho": "Alt+C / Alt+V",
       "sites": [
@@ -54,14 +54,14 @@
         "poke.idleworld.online"
       ],
       "codigo": "https://github.com/lioncodetech/pokepixel-loja-rapida",
-      "versao": "1.18.0",
-      "pacote": "https://github.com/lioncodetech/pokepixel-loja-rapida/releases/download/v1.18.0/pokepixel-loja-rapida-1.18.0.zip",
-      "sha256": "423ca0c9888dd2fdc5d9e30ee257d519687b4558ca4d568ee5490a828b63c960"
+      "versao": "1.20.0",
+      "pacote": "https://github.com/lioncodetech/pokepixel-loja-rapida/releases/download/v1.20.0/pokepixel-loja-rapida-1.20.0.zip",
+      "sha256": "c57a1687375e4e973139b5425d77e1c80b296ae74d43b4300c21109728d75857"
     },
     {
       "id": "pokepixel-venda-rapida",
       "nome": "PokePixel — venda rápida",
-      "resumo": "Vende pokémon pela loja do Mark nas raridades que você marcar, só até o nível que escolher e em lotes. Vende na hora ou sozinha de tempos em tempos.",
+      "resumo": "Vende pokémon pela loja do Mark nas raridades que você marcar, só até o nível que escolher e em lotes. Vende na hora, de tempos em tempos ou uma vez dentro das faixas de horário que você marcar. Alt+D esconde, Alt+F mostra.",
       "aviso": "Automatiza uma ação do jogo, e vender não tem desfazer. Se o PokePixel proibir automação, o risco é seu.",
       "atalho": "Alt+D / Alt+F",
       "sites": [
@@ -69,9 +69,9 @@
         "poke.idleworld.online"
       ],
       "codigo": "https://github.com/lioncodetech/pokepixel-venda-rapida",
-      "versao": "1.0.0",
-      "pacote": "https://github.com/lioncodetech/pokepixel-venda-rapida/releases/download/v1.0.0/pokepixel-venda-rapida-1.0.0.zip",
-      "sha256": "44c207bbce59d727fa5562c338ce73cf61f5afa1f92bd3eeb864a53e1b511199"
+      "versao": "1.2.0",
+      "pacote": "https://github.com/lioncodetech/pokepixel-venda-rapida/releases/download/v1.2.0/pokepixel-venda-rapida-1.2.0.zip",
+      "sha256": "7c786652567023eab9b252eb6b8348bee83d62cc750a7fd7374480af0d648934"
     }
   ]
 }
