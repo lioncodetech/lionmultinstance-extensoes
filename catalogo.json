@@ -86,6 +86,22 @@
       "versao": "1.0.0",
       "pacote": "https://github.com/lioncodetech/geral-anotacoes/releases/download/v1.0.0/geral-anotacoes-1.0.0.zip",
       "sha256": "b8270e4028f93d3b9c6b03c68cc6be8a67464ac1de877ee14fe7e70efa138953"
+    },
+    {
+      "id": "pokepixel-qualidade-de-vida",
+      "jogo": "PokePixel",
+      "nome": "PokePixel — qualidade de vida",
+      "resumo": "As cinco ferramentas do PokePixel num pacote so, com um menu para ligar e desligar cada uma na janela. Alt+Q abre o menu.",
+      "aviso": "Nao instale junto com as extensoes avulsas na mesma janela: cada ferramenta apareceria duas vezes.",
+      "atalho": "Alt+Q",
+      "sites": [
+        "pokepixel.nietore.com",
+        "poke.idleworld.online"
+      ],
+      "codigo": "https://github.com/lioncodetech/pokepixel-qualidade-de-vida",
+      "versao": "1.0.0",
+      "pacote": "https://github.com/lioncodetech/pokepixel-qualidade-de-vida/releases/download/v1.0.0/pokepixel-qualidade-de-vida-1.0.0.zip",
+      "sha256": "123b047afb74492bf3d936186b0ca3f2f51e070ddbe32f41c5546935faacd494"
     }
   ]
 }
