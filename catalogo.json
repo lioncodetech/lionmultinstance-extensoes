@@ -46,7 +46,7 @@
     {
       "id": "pokepixel-loja-rapida",
       "nome": "PokePixel — loja rápida",
-      "resumo": "Um botão de compra para cada pokébola, poção e revive da loja do Mark, com a quantidade salva, o gasto à vista e o seu estoque. Alt+C mostra e esconde.",
+      "resumo": "Um botão por item da loja do Mark: você diz quanto quer ter de cada pokébola, poção e revive e ela compra só o que falta, na hora ou sozinha de tempos em tempos. Alt+C mostra e esconde.",
       "aviso": "Automatiza uma ação do jogo. Se o PokePixel proibir automação, o risco é seu.",
       "atalho": "Alt+C",
       "sites": [
@@ -54,9 +54,9 @@
         "poke.idleworld.online"
       ],
       "codigo": "https://github.com/lioncodetech/pokepixel-loja-rapida",
-      "versao": "1.15.0",
-      "pacote": "https://github.com/lioncodetech/pokepixel-loja-rapida/releases/download/v1.15.0/pokepixel-loja-rapida-1.15.0.zip",
-      "sha256": "a1b56e29da34008178386937ca33b2fbcc3bff97ce150629103dc868acd02fbf"
+      "versao": "1.16.0",
+      "pacote": "https://github.com/lioncodetech/pokepixel-loja-rapida/releases/download/v1.16.0/pokepixel-loja-rapida-1.16.0.zip",
+      "sha256": "6a6f6f324a4bdabbf49ef5b49dfc8cbc1f6be149dcb787a55f4b717336f1dcbc"
     }
   ]
 }
