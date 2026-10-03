@@ -28,6 +28,13 @@ pelo menu de extensões da janela. O catálogo existe só para poupar esse traba
 
 | Extensão | O que faz | Código |
 | --- | --- | --- |
-| PokePixel — ocultar popups | `Alt+B` esconde os popups de hover | [repositório](https://github.com/lioncodetech/pokepixel-ocultar-popups) |
-| PokePixel — sem gráfico | `Alt+G` desliga o desenho do mapa | [repositório](https://github.com/lioncodetech/pokepixel-sem-grafico) |
-| PokePixel — senha | Botão que cola a sua senha no login | [repositório](https://github.com/lioncodetech/pokepixel-senha) |
+| PokePixel — qualidade de vida | As cinco ferramentas do PokePixel num pacote só, com menu `Alt+Q` | [repositório](https://github.com/lioncodetech/pokepixel-qualidade-de-vida) |
+| Geral — anotações | Quadros de anotações flutuantes em qualquer site, `Alt+X` / `Alt+Z` | [repositório](https://github.com/lioncodetech/geral-anotacoes) |
+
+### As avulsas saíram da lista
+
+As cinco extensões soltas do PokePixel — ocultar popups, sem gráfico, senha, loja rápida e venda
+rápida — não aparecem mais no catálogo: o pacote **qualidade de vida** faz as cinco, com um menu
+para ligar e desligar cada uma. Os repositórios continuam públicos e as releases no ar, então quem
+já instalou continua com a extensão funcionando e pode baixar o `.zip` à mão; o que não acontece
+mais é o app oferecer a atualização delas pela loja.

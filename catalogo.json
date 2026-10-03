@@ -2,76 +2,20 @@
   "versaoDoFormato": 1,
   "extensoes": [
     {
-      "id": "pokepixel-ocultar-popups",
-      "nome": "PokePixel — ocultar popups",
-      "resumo": "Alt+B esconde (e Alt+N mostra) os popups que aparecem ao passar o mouse: cartão do Pokémon, painel Análise e popup de itens.",
-      "atalho": "Alt+B / Alt+N",
+      "id": "pokepixel-qualidade-de-vida",
+      "jogo": "PokePixel",
+      "nome": "PokePixel — qualidade de vida",
+      "resumo": "As cinco ferramentas do PokePixel num pacote só, com um menu para mostrar, esconder, ligar e desligar cada uma na janela. Alt+Q abre o menu.",
+      "aviso": "Automatiza ações do jogo e guarda a sua senha em texto puro no computador; se o PokePixel proibir automação, o risco é seu. Quem ainda tem as extensões avulsas instaladas deve desligá-las na janela: cada ferramenta apareceria duas vezes.",
+      "atalho": "Alt+Q",
       "sites": [
         "pokepixel.nietore.com",
         "poke.idleworld.online"
       ],
-      "codigo": "https://github.com/lioncodetech/pokepixel-ocultar-popups",
-      "versao": "1.2.1",
-      "pacote": "https://github.com/lioncodetech/pokepixel-ocultar-popups/releases/download/v1.2.1/pokepixel-ocultar-popups-1.2.1.zip",
-      "sha256": "d8aedd6677f69564db301097ff4f38aae25044d37cdc9950c9281989d53bb798"
-    },
-    {
-      "id": "pokepixel-sem-grafico",
-      "nome": "PokePixel — sem gráfico",
-      "resumo": "Alt+G desliga o desenho do mapa e Alt+H liga. O jogo continua rodando; a interface continua na tela.",
-      "atalho": "Alt+G / Alt+H",
-      "sites": [
-        "pokepixel.nietore.com",
-        "poke.idleworld.online"
-      ],
-      "codigo": "https://github.com/lioncodetech/pokepixel-sem-grafico",
-      "versao": "1.1.1",
-      "pacote": "https://github.com/lioncodetech/pokepixel-sem-grafico/releases/download/v1.1.1/pokepixel-sem-grafico-1.1.1.zip",
-      "sha256": "37476f94525397b8682a2abac2fef38b88c491213ec7403121df3806477571ab"
-    },
-    {
-      "id": "pokepixel-senha",
-      "nome": "PokePixel — senha",
-      "resumo": "Guarda o seu usuário e a sua senha e os cola nos campos de login com um botão. Ficam em texto puro no computador: use só para este jogo.",
-      "aviso": "O usuário e a senha são guardados sem senha-mestra. Quem usar o seu computador pode entrar na sua conta.",
-      "sites": [
-        "pokepixel.nietore.com",
-        "poke.idleworld.online"
-      ],
-      "codigo": "https://github.com/lioncodetech/pokepixel-senha",
-      "versao": "1.1.1",
-      "pacote": "https://github.com/lioncodetech/pokepixel-senha/releases/download/v1.1.1/pokepixel-senha-1.1.1.zip",
-      "sha256": "ff2f08892ed147f2942bec8c1ad08e88b11f0402c0d678d8922e2fe2a0148daf"
-    },
-    {
-      "id": "pokepixel-loja-rapida",
-      "nome": "PokePixel — loja rápida",
-      "resumo": "Um botão por item da loja do Mark: você diz quanto quer ter de cada pokébola, poção e revive e ela compra só o que falta, na hora, de tempos em tempos ou uma vez dentro das faixas de horário que você marcar. Alt+C esconde, Alt+V mostra.",
-      "aviso": "Automatiza uma ação do jogo. Se o PokePixel proibir automação, o risco é seu.",
-      "atalho": "Alt+C / Alt+V",
-      "sites": [
-        "pokepixel.nietore.com",
-        "poke.idleworld.online"
-      ],
-      "codigo": "https://github.com/lioncodetech/pokepixel-loja-rapida",
-      "versao": "1.20.1",
-      "pacote": "https://github.com/lioncodetech/pokepixel-loja-rapida/releases/download/v1.20.1/pokepixel-loja-rapida-1.20.1.zip",
-      "sha256": "c7c5fafa936d9f363dcf94d86400a034848ce8ee2c0c6accd1e6bf3202360c76"
-    },
-    {
-      "id": "pokepixel-venda-rapida",
-      "nome": "PokePixel — venda rápida",
-      "resumo": "Vende pokémon pela loja do Mark nas raridades que você marcar, só até o nível que escolher e em lotes. Vende na hora, de tempos em tempos ou uma vez dentro das faixas de horário que você marcar. Alt+D esconde, Alt+F mostra.",
-      "aviso": "Automatiza uma ação do jogo, e vender não tem desfazer. Se o PokePixel proibir automação, o risco é seu.",
-      "atalho": "Alt+D / Alt+F",
-      "sites": [
-        "pokepixel.nietore.com",
-        "poke.idleworld.online"
-      ],
-      "codigo": "https://github.com/lioncodetech/pokepixel-venda-rapida",
-      "versao": "1.2.2",
-      "pacote": "https://github.com/lioncodetech/pokepixel-venda-rapida/releases/download/v1.2.2/pokepixel-venda-rapida-1.2.2.zip",
-      "sha256": "6724144052163bdfc19a0dbaf8114edfdd3c1d95384ab164a77538db6d28319a"
+      "codigo": "https://github.com/lioncodetech/pokepixel-qualidade-de-vida",
+      "versao": "1.1.0",
+      "pacote": "https://github.com/lioncodetech/pokepixel-qualidade-de-vida/releases/download/v1.1.0/pokepixel-qualidade-de-vida-1.1.0.zip",
+      "sha256": "3ede5b1720124f75b68a9de053f303a460df10592a052ba11bc19992069f9691"
     },
     {
       "id": "geral-anotacoes",
@@ -86,22 +30,6 @@
       "versao": "1.0.0",
       "pacote": "https://github.com/lioncodetech/geral-anotacoes/releases/download/v1.0.0/geral-anotacoes-1.0.0.zip",
       "sha256": "b8270e4028f93d3b9c6b03c68cc6be8a67464ac1de877ee14fe7e70efa138953"
-    },
-    {
-      "id": "pokepixel-qualidade-de-vida",
-      "jogo": "PokePixel",
-      "nome": "PokePixel — qualidade de vida",
-      "resumo": "As cinco ferramentas do PokePixel num pacote so, com um menu para ligar e desligar cada uma na janela. Alt+Q abre o menu.",
-      "aviso": "Nao instale junto com as extensoes avulsas na mesma janela: cada ferramenta apareceria duas vezes.",
-      "atalho": "Alt+Q",
-      "sites": [
-        "pokepixel.nietore.com",
-        "poke.idleworld.online"
-      ],
-      "codigo": "https://github.com/lioncodetech/pokepixel-qualidade-de-vida",
-      "versao": "1.0.0",
-      "pacote": "https://github.com/lioncodetech/pokepixel-qualidade-de-vida/releases/download/v1.0.0/pokepixel-qualidade-de-vida-1.0.0.zip",
-      "sha256": "123b047afb74492bf3d936186b0ca3f2f51e070ddbe32f41c5546935faacd494"
     }
   ]
 }
