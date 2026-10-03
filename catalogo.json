@@ -4,30 +4,30 @@
     {
       "id": "pokepixel-ocultar-popups",
       "nome": "PokePixel — ocultar popups",
-      "resumo": "Alt+B esconde os popups que aparecem ao passar o mouse: cartão do Pokémon, painel Análise e popup de itens.",
-      "atalho": "Alt+B",
+      "resumo": "Alt+B esconde (e Alt+N mostra) os popups que aparecem ao passar o mouse: cartão do Pokémon, painel Análise e popup de itens.",
+      "atalho": "Alt+B / Alt+N",
       "sites": [
         "pokepixel.nietore.com",
         "poke.idleworld.online"
       ],
       "codigo": "https://github.com/lioncodetech/pokepixel-ocultar-popups",
-      "versao": "1.1.0",
-      "pacote": "https://github.com/lioncodetech/pokepixel-ocultar-popups/releases/download/v1.1.0/pokepixel-ocultar-popups-1.1.0.zip",
-      "sha256": "97d03fd4fe4602ff7d49330bfbf00383c387ff56367bc88a236804cdfb4b5f59"
+      "versao": "1.2.0",
+      "pacote": "https://github.com/lioncodetech/pokepixel-ocultar-popups/releases/download/v1.2.0/pokepixel-ocultar-popups-1.2.0.zip",
+      "sha256": "9c46d8291f242e36712e08db24db027a72e21c2faad97648c39319e7a062719a"
     },
     {
       "id": "pokepixel-sem-grafico",
       "nome": "PokePixel — sem gráfico",
-      "resumo": "Alt+G desliga o desenho do mapa. O jogo continua rodando; a interface continua na tela.",
-      "atalho": "Alt+G",
+      "resumo": "Alt+G desliga o desenho do mapa e Alt+H liga. O jogo continua rodando; a interface continua na tela.",
+      "atalho": "Alt+G / Alt+H",
       "sites": [
         "pokepixel.nietore.com",
         "poke.idleworld.online"
       ],
       "codigo": "https://github.com/lioncodetech/pokepixel-sem-grafico",
-      "versao": "1.0.0",
-      "pacote": "https://github.com/lioncodetech/pokepixel-sem-grafico/releases/download/v1.0.0/pokepixel-sem-grafico-1.0.0.zip",
-      "sha256": "80896a8e4bf6ad8021c5e296f5e8f080fb7516dbb733a25c2499c0dcee43b35c"
+      "versao": "1.1.0",
+      "pacote": "https://github.com/lioncodetech/pokepixel-sem-grafico/releases/download/v1.1.0/pokepixel-sem-grafico-1.1.0.zip",
+      "sha256": "a8e3fa99d64531806ac81e2a1d22f4ebbf9c4ac68260d547c5bb15e1a3cdb8b3"
     },
     {
       "id": "pokepixel-senha",
@@ -46,17 +46,32 @@
     {
       "id": "pokepixel-loja-rapida",
       "nome": "PokePixel — loja rápida",
-      "resumo": "Um botão por item da loja do Mark: você diz quanto quer ter de cada pokébola, poção e revive e ela compra só o que falta, na hora ou sozinha de tempos em tempos. Alt+C mostra e esconde.",
+      "resumo": "Um botão por item da loja do Mark: você diz quanto quer ter de cada pokébola, poção e revive e ela compra só o que falta, na hora ou sozinha de tempos em tempos. Alt+C esconde, Alt+V mostra.",
       "aviso": "Automatiza uma ação do jogo. Se o PokePixel proibir automação, o risco é seu.",
-      "atalho": "Alt+C",
+      "atalho": "Alt+C / Alt+V",
       "sites": [
         "pokepixel.nietore.com",
         "poke.idleworld.online"
       ],
       "codigo": "https://github.com/lioncodetech/pokepixel-loja-rapida",
-      "versao": "1.16.0",
-      "pacote": "https://github.com/lioncodetech/pokepixel-loja-rapida/releases/download/v1.16.0/pokepixel-loja-rapida-1.16.0.zip",
-      "sha256": "6a6f6f324a4bdabbf49ef5b49dfc8cbc1f6be149dcb787a55f4b717336f1dcbc"
+      "versao": "1.18.0",
+      "pacote": "https://github.com/lioncodetech/pokepixel-loja-rapida/releases/download/v1.18.0/pokepixel-loja-rapida-1.18.0.zip",
+      "sha256": "423ca0c9888dd2fdc5d9e30ee257d519687b4558ca4d568ee5490a828b63c960"
+    },
+    {
+      "id": "pokepixel-venda-rapida",
+      "nome": "PokePixel — venda rápida",
+      "resumo": "Vende pokémon pela loja do Mark nas raridades que você marcar, só até o nível que escolher e em lotes. Vende na hora ou sozinha de tempos em tempos.",
+      "aviso": "Automatiza uma ação do jogo, e vender não tem desfazer. Se o PokePixel proibir automação, o risco é seu.",
+      "atalho": "Alt+D / Alt+F",
+      "sites": [
+        "pokepixel.nietore.com",
+        "poke.idleworld.online"
+      ],
+      "codigo": "https://github.com/lioncodetech/pokepixel-venda-rapida",
+      "versao": "1.0.0",
+      "pacote": "https://github.com/lioncodetech/pokepixel-venda-rapida/releases/download/v1.0.0/pokepixel-venda-rapida-1.0.0.zip",
+      "sha256": "44c207bbce59d727fa5562c338ce73cf61f5afa1f92bd3eeb864a53e1b511199"
     }
   ]
 }
