@@ -5,7 +5,7 @@
       "id": "pokepixel-qualidade-de-vida",
       "jogo": "PokePixel",
       "nome": "PokePixel — qualidade de vida",
-      "resumo": "As cinco ferramentas do PokePixel num pacote só, com um menu para mostrar, esconder, ligar e desligar cada uma na janela. A venda rápida também vende itens, se você ligar. Alt+Q abre o menu.",
+      "resumo": "As seis ferramentas do PokePixel num pacote só, com um menu para mostrar, esconder, ligar e desligar cada uma na janela. O layout padrão põe as janelas e os HUDs do jogo no lugar que você escolheu, num botão só. Alt+Q abre o menu.",
       "aviso": "Automatiza ações do jogo e guarda a sua senha em texto puro no computador; se o PokePixel proibir automação, o risco é seu. Quem ainda tem as extensões avulsas instaladas deve desligá-las na janela: cada ferramenta apareceria duas vezes.",
       "atalho": "Alt+Q",
       "sites": [
@@ -13,9 +13,9 @@
         "poke.idleworld.online"
       ],
       "codigo": "https://github.com/lioncodetech/pokepixel-qualidade-de-vida",
-      "versao": "1.1.1",
-      "pacote": "https://github.com/lioncodetech/pokepixel-qualidade-de-vida/releases/download/v1.1.1/pokepixel-qualidade-de-vida-1.1.1.zip",
-      "sha256": "828e35c72e91163362706c9505eaeaabb90810d8d0c5fa27870ec917129a91c6"
+      "versao": "1.2.0",
+      "pacote": "https://github.com/lioncodetech/pokepixel-qualidade-de-vida/releases/download/v1.2.0/pokepixel-qualidade-de-vida-1.2.0.zip",
+      "sha256": "78d6ede3e60a6abebb1c39c9832b0d956d1706329b39125fd047f070a13f188d"
     },
     {
       "id": "geral-anotacoes",
