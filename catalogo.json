@@ -5,7 +5,7 @@
       "id": "pokepixel-qualidade-de-vida",
       "jogo": "PokePixel",
       "nome": "PokePixel — qualidade de vida",
-      "resumo": "As cinco ferramentas do PokePixel num pacote só, com um menu para mostrar, esconder, ligar e desligar cada uma na janela. Alt+Q abre o menu.",
+      "resumo": "As cinco ferramentas do PokePixel num pacote só, com um menu para mostrar, esconder, ligar e desligar cada uma na janela. A venda rápida também vende itens, se você ligar. Alt+Q abre o menu.",
       "aviso": "Automatiza ações do jogo e guarda a sua senha em texto puro no computador; se o PokePixel proibir automação, o risco é seu. Quem ainda tem as extensões avulsas instaladas deve desligá-las na janela: cada ferramenta apareceria duas vezes.",
       "atalho": "Alt+Q",
       "sites": [
@@ -13,9 +13,9 @@
         "poke.idleworld.online"
       ],
       "codigo": "https://github.com/lioncodetech/pokepixel-qualidade-de-vida",
-      "versao": "1.1.0",
-      "pacote": "https://github.com/lioncodetech/pokepixel-qualidade-de-vida/releases/download/v1.1.0/pokepixel-qualidade-de-vida-1.1.0.zip",
-      "sha256": "3ede5b1720124f75b68a9de053f303a460df10592a052ba11bc19992069f9691"
+      "versao": "1.1.1",
+      "pacote": "https://github.com/lioncodetech/pokepixel-qualidade-de-vida/releases/download/v1.1.1/pokepixel-qualidade-de-vida-1.1.1.zip",
+      "sha256": "828e35c72e91163362706c9505eaeaabb90810d8d0c5fa27870ec917129a91c6"
     },
     {
       "id": "geral-anotacoes",
@@ -27,9 +27,9 @@
         "qualquer site"
       ],
       "codigo": "https://github.com/lioncodetech/geral-anotacoes",
-      "versao": "1.0.0",
-      "pacote": "https://github.com/lioncodetech/geral-anotacoes/releases/download/v1.0.0/geral-anotacoes-1.0.0.zip",
-      "sha256": "b8270e4028f93d3b9c6b03c68cc6be8a67464ac1de877ee14fe7e70efa138953"
+      "versao": "1.0.1",
+      "pacote": "https://github.com/lioncodetech/geral-anotacoes/releases/download/v1.0.1/geral-anotacoes-1.0.1.zip",
+      "sha256": "8816b8078580c81cdad1bced43b8c7015b544b8aeb6480bb01d74a62dc1c3e06"
     }
   ]
 }
