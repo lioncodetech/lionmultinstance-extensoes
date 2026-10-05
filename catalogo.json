@@ -5,7 +5,7 @@
       "id": "pokepixel-qualidade-de-vida",
       "jogo": "PokePixel",
       "nome": "PokePixel — qualidade de vida",
-      "resumo": "As nove ferramentas do PokePixel num pacote só, com um menu para mostrar, esconder, ligar e desligar cada uma na janela. Os times guardam a sua equipe e a trocam num clique, inclusive a troca completa de seis por seis, com o painel retrátil e o tempo que falta na tela. O ginásio do dia sai da caçada, troca o time, desafia o ginásio marcado HOJE em Kanto ou Johto e devolve você à mesma caçada, no ritmo de quem joga. O layout padrão põe as janelas e os HUDs do jogo no lugar que você escolheu, num botão só. A venda rápida nunca vende épica, lendária nem mítica. As janelinhas ficam presas ao canto: rearranjar as views não as espalha nem as esconde para fora da tela. Os atalhos de caçada guardam as caçadas que você usa e levam a qualquer uma num clique. Alt+Q abre o menu.",
+      "resumo": "As nove ferramentas do PokePixel num pacote só, com um menu para mostrar, esconder, ligar e desligar cada uma na janela. Os times guardam a sua equipe e a trocam num clique, inclusive a troca completa de seis por seis, com o painel retrátil e o tempo que falta na tela. O ginásio do dia sai da caçada, troca o time, desafia o ginásio marcado HOJE em Kanto ou Johto e devolve você à mesma caçada, no ritmo de quem joga. O layout padrão põe as janelas e os HUDs do jogo no lugar que você escolheu, num botão só. A venda rápida nunca vende épica, lendária nem mítica. As janelinhas ficam presas ao canto: rearranjar as views não as espalha nem as esconde para fora da tela. Os atalhos de caçada guardam as caçadas que você usa e levam a qualquer uma num clique, cada uma com o seu time; minimizados, o ginásio mostra como foi o dia em cada região e as caçadas mostram onde você está, com setas para folhear as guardadas. Alt+Q abre o menu.",
       "aviso": "Automatiza ações do jogo e guarda a sua senha em texto puro no computador; se o PokePixel proibir automação, o risco é seu. Quem ainda tem as extensões avulsas instaladas deve desligá-las na janela: cada ferramenta apareceria duas vezes.",
       "atalho": "Alt+Q",
       "sites": [
@@ -13,23 +13,23 @@
         "poke.idleworld.online"
       ],
       "codigo": "https://github.com/lioncodetech/pokepixel-qualidade-de-vida",
-      "versao": "1.5.0",
-      "pacote": "https://github.com/lioncodetech/pokepixel-qualidade-de-vida/releases/download/v1.5.0/pokepixel-qualidade-de-vida-1.5.0.zip",
-      "sha256": "26ec222fd6bb6f1a55fe897029eb2c15a95f0f979b1c784ab07e23fac39f8679"
+      "versao": "1.5.1",
+      "pacote": "https://github.com/lioncodetech/pokepixel-qualidade-de-vida/releases/download/v1.5.1/pokepixel-qualidade-de-vida-1.5.1.zip",
+      "sha256": "a43e344533554dfbf3005ab137cd0ef5c5f187ce1c8332f7256e752c11db75cd"
     },
     {
       "id": "geral-anotacoes",
       "jogo": "Geral",
       "nome": "Geral — anotações",
-      "resumo": "Quadros de anotações flutuantes em qualquer site, quantos você quiser. Alt+X mostra e Alt+Z esconde; o texto salva sozinho, os quadros ficam presos ao canto ao redimensionar e escrever neles nao dispara os atalhos do site.",
+      "resumo": "Quadros de anotações flutuantes em qualquer site, quantos você quiser. Alt+X mostra e Alt+Z esconde; o texto salva sozinho, os quadros ficam presos ao canto ao redimensionar e escrever neles nao dispara os atalhos do site. Arraste o quadro pelo cabeçalho e o botão de abrir para onde não atrapalhe: o lugar dos dois fica guardado.",
       "atalho": "Alt+X / Alt+Z",
       "sites": [
         "qualquer site"
       ],
       "codigo": "https://github.com/lioncodetech/geral-anotacoes",
-      "versao": "1.0.2",
-      "pacote": "https://github.com/lioncodetech/geral-anotacoes/releases/download/v1.0.2/geral-anotacoes-1.0.2.zip",
-      "sha256": "04c26ff008a943ee1d3a7267e5b659aa7bc7549ea5474df69ceb079d8c2798fd"
+      "versao": "1.0.3",
+      "pacote": "https://github.com/lioncodetech/geral-anotacoes/releases/download/v1.0.3/geral-anotacoes-1.0.3.zip",
+      "sha256": "40dc510b06d16e17ba4f2aba150204018d42d0db100de470dd3bcb7251483ae1"
     }
   ]
 }
