@@ -21,15 +21,15 @@
       "id": "geral-anotacoes",
       "jogo": "Geral",
       "nome": "Geral — anotações",
-      "resumo": "Quadros de anotações flutuantes em qualquer site, quantos você quiser. Alt+X mostra e Alt+Z esconde; o texto salva sozinho e acompanha o tamanho da janela.",
+      "resumo": "Quadros de anotações flutuantes em qualquer site, quantos você quiser. Alt+X mostra e Alt+Z esconde; o texto salva sozinho, os quadros ficam presos ao canto ao redimensionar e escrever neles nao dispara os atalhos do site.",
       "atalho": "Alt+X / Alt+Z",
       "sites": [
         "qualquer site"
       ],
       "codigo": "https://github.com/lioncodetech/geral-anotacoes",
-      "versao": "1.0.1",
-      "pacote": "https://github.com/lioncodetech/geral-anotacoes/releases/download/v1.0.1/geral-anotacoes-1.0.1.zip",
-      "sha256": "8816b8078580c81cdad1bced43b8c7015b544b8aeb6480bb01d74a62dc1c3e06"
+      "versao": "1.0.2",
+      "pacote": "https://github.com/lioncodetech/geral-anotacoes/releases/download/v1.0.2/geral-anotacoes-1.0.2.zip",
+      "sha256": "04c26ff008a943ee1d3a7267e5b659aa7bc7549ea5474df69ceb079d8c2798fd"
     }
   ]
 }
