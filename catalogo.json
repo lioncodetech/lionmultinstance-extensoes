@@ -5,7 +5,7 @@
       "id": "pokepixel-qualidade-de-vida",
       "jogo": "PokePixel",
       "nome": "PokePixel — qualidade de vida",
-      "resumo": "As seis ferramentas do PokePixel num pacote só, com um menu para mostrar, esconder, ligar e desligar cada uma na janela. O layout padrão põe as janelas e os HUDs do jogo no lugar que você escolheu, num botão só. A venda rápida nunca vende épica, lendária nem mítica. As janelinhas ficam presas ao canto: rearranjar as views não as espalha nem as esconde para fora da tela. Alt+Q abre o menu.",
+      "resumo": "As sete ferramentas do PokePixel num pacote só, com um menu para mostrar, esconder, ligar e desligar cada uma na janela. Os times guardam a sua equipe e a trocam num clique, inclusive a troca completa de seis por seis, com o painel retrátil e o tempo que falta na tela. O layout padrão põe as janelas e os HUDs do jogo no lugar que você escolheu, num botão só. A venda rápida nunca vende épica, lendária nem mítica. As janelinhas ficam presas ao canto: rearranjar as views não as espalha nem as esconde para fora da tela. Alt+Q abre o menu.",
       "aviso": "Automatiza ações do jogo e guarda a sua senha em texto puro no computador; se o PokePixel proibir automação, o risco é seu. Quem ainda tem as extensões avulsas instaladas deve desligá-las na janela: cada ferramenta apareceria duas vezes.",
       "atalho": "Alt+Q",
       "sites": [
@@ -13,9 +13,9 @@
         "poke.idleworld.online"
       ],
       "codigo": "https://github.com/lioncodetech/pokepixel-qualidade-de-vida",
-      "versao": "1.2.3",
-      "pacote": "https://github.com/lioncodetech/pokepixel-qualidade-de-vida/releases/download/v1.2.3/pokepixel-qualidade-de-vida-1.2.3.zip",
-      "sha256": "d66405e76993deeeae9f9fb6b6925773eb145158c625afd60a1cccf1a1818cb0"
+      "versao": "1.3.0",
+      "pacote": "https://github.com/lioncodetech/pokepixel-qualidade-de-vida/releases/download/v1.3.0/pokepixel-qualidade-de-vida-1.3.0.zip",
+      "sha256": "17b42d848b40ae8be5188b4035113c11d5adace6d00efaabd19df97ca98fd0e9"
     },
     {
       "id": "geral-anotacoes",
