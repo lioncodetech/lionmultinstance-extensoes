@@ -5,7 +5,7 @@
       "id": "pokepixel-qualidade-de-vida",
       "jogo": "PokePixel",
       "nome": "PokePixel — qualidade de vida",
-      "resumo": "As oito ferramentas do PokePixel num pacote só, com um menu para mostrar, esconder, ligar e desligar cada uma na janela. Os times guardam a sua equipe e a trocam num clique, inclusive a troca completa de seis por seis, com o painel retrátil e o tempo que falta na tela. O ginásio do dia sai da caçada, troca o time, desafia o ginásio marcado HOJE em Kanto ou Johto e devolve você à mesma caçada, no ritmo de quem joga. O layout padrão põe as janelas e os HUDs do jogo no lugar que você escolheu, num botão só. A venda rápida nunca vende épica, lendária nem mítica. As janelinhas ficam presas ao canto: rearranjar as views não as espalha nem as esconde para fora da tela. Alt+Q abre o menu.",
+      "resumo": "As nove ferramentas do PokePixel num pacote só, com um menu para mostrar, esconder, ligar e desligar cada uma na janela. Os times guardam a sua equipe e a trocam num clique, inclusive a troca completa de seis por seis, com o painel retrátil e o tempo que falta na tela. O ginásio do dia sai da caçada, troca o time, desafia o ginásio marcado HOJE em Kanto ou Johto e devolve você à mesma caçada, no ritmo de quem joga. O layout padrão põe as janelas e os HUDs do jogo no lugar que você escolheu, num botão só. A venda rápida nunca vende épica, lendária nem mítica. As janelinhas ficam presas ao canto: rearranjar as views não as espalha nem as esconde para fora da tela. Os atalhos de caçada guardam as caçadas que você usa e levam a qualquer uma num clique. Alt+Q abre o menu.",
       "aviso": "Automatiza ações do jogo e guarda a sua senha em texto puro no computador; se o PokePixel proibir automação, o risco é seu. Quem ainda tem as extensões avulsas instaladas deve desligá-las na janela: cada ferramenta apareceria duas vezes.",
       "atalho": "Alt+Q",
       "sites": [
@@ -13,9 +13,9 @@
         "poke.idleworld.online"
       ],
       "codigo": "https://github.com/lioncodetech/pokepixel-qualidade-de-vida",
-      "versao": "1.4.7",
-      "pacote": "https://github.com/lioncodetech/pokepixel-qualidade-de-vida/releases/download/v1.4.7/pokepixel-qualidade-de-vida-1.4.7.zip",
-      "sha256": "5c7fca231e2e66e8d8c4e0fed98923f3b5b4f043190fd85f319764bb82c0e2d3"
+      "versao": "1.5.0",
+      "pacote": "https://github.com/lioncodetech/pokepixel-qualidade-de-vida/releases/download/v1.5.0/pokepixel-qualidade-de-vida-1.5.0.zip",
+      "sha256": "26ec222fd6bb6f1a55fe897029eb2c15a95f0f979b1c784ab07e23fac39f8679"
     },
     {
       "id": "geral-anotacoes",
