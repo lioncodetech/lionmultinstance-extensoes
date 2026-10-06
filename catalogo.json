@@ -21,15 +21,15 @@
       "id": "geral-anotacoes",
       "jogo": "Geral",
       "nome": "Geral — anotações",
-      "resumo": "Quadros de anotações flutuantes em qualquer site, quantos você quiser. Alt+X mostra e Alt+Z esconde; o texto salva sozinho, os quadros ficam presos ao canto ao redimensionar e escrever neles nao dispara os atalhos do site. Arraste o quadro pelo cabeçalho e o botão de abrir para onde não atrapalhe: o lugar dos dois fica guardado.",
-      "atalho": "Alt+X / Alt+Z",
+      "resumo": "Quadros de anotações flutuantes em qualquer site, quantos você quiser. Alt+P mostra e Alt+O esconde; o texto salva sozinho, os quadros ficam presos ao canto ao redimensionar e escrever neles nao dispara os atalhos do site. Arraste o quadro pelo cabeçalho e o botão de abrir para onde não atrapalhe: o lugar dos dois fica guardado. As teclas mudaram na 1.0.4: eram Alt+X e Alt+Z, que o pacote do PokePixel passou a usar para esconder e mostrar as janelas dele.",
+      "atalho": "Alt+P / Alt+O",
       "sites": [
         "qualquer site"
       ],
       "codigo": "https://github.com/lioncodetech/geral-anotacoes",
-      "versao": "1.0.3",
-      "pacote": "https://github.com/lioncodetech/geral-anotacoes/releases/download/v1.0.3/geral-anotacoes-1.0.3.zip",
-      "sha256": "40dc510b06d16e17ba4f2aba150204018d42d0db100de470dd3bcb7251483ae1"
+      "versao": "1.0.4",
+      "pacote": "https://github.com/lioncodetech/geral-anotacoes/releases/download/v1.0.4/geral-anotacoes-1.0.4.zip",
+      "sha256": "0d4d0e0fa7320ec94d46c1d026bcdf3beac779d2a94164f7da5c4b7e877b3ebf"
     }
   ]
 }
