@@ -5,7 +5,7 @@
       "id": "pokepixel-qualidade-de-vida",
       "jogo": "PokePixel",
       "nome": "PokePixel — qualidade de vida",
-      "resumo": "As dez ferramentas do PokePixel num pacote só, com um menu para mostrar, esconder, ligar e desligar cada uma na janela. Os times guardam a sua equipe e a trocam num clique, inclusive a troca completa de seis por seis, com o painel retrátil e o tempo que falta na tela. O ginásio do dia sai da caçada, troca o time, desafia o ginásio marcado HOJE em Kanto ou Johto e devolve você à mesma caçada, no ritmo de quem joga. O layout padrão põe as janelas e os HUDs do jogo no lugar que você escolheu, num botão só. A venda rápida nunca vende épica, lendária nem mítica. As janelinhas ficam presas ao canto: rearranjar as views não as espalha nem as esconde para fora da tela. Os atalhos de caçada guardam as caçadas que você usa e levam a qualquer uma num clique, cada uma com o seu time; minimizados, o ginásio mostra como foi o dia em cada região e as caçadas mostram onde você está, com setas para folhear as guardadas. As raridades leem a sua coleção inteira — mochila, depósito e time — e dizem o número da raridade de cada Pokémon, que na tela do jogo só aparece abrindo um de cada vez; dá para filtrar por faixa, ver de quem é cada número e copiar a lista. Alt+Q abre o menu.",
+      "resumo": "As dez ferramentas do PokePixel num pacote só, com um menu para mostrar, esconder, ligar e desligar cada uma na janela. Os times guardam a sua equipe e a trocam num clique, inclusive a troca completa de seis por seis, com o painel retrátil e o tempo que falta na tela. O ginásio do dia sai da caçada, troca o time, desafia o ginásio marcado HOJE em Kanto ou Johto e devolve você à mesma caçada, no ritmo de quem joga. O layout padrão põe as janelas e os HUDs do jogo no lugar que você escolheu, num botão só. A venda rápida nunca vende épica, lendária nem mítica. As janelinhas ficam presas ao canto: rearranjar as views não as espalha nem as esconde para fora da tela. Os atalhos de caçada guardam as caçadas que você usa e levam a qualquer uma num clique, cada uma com o seu time; minimizados, o ginásio mostra como foi o dia em cada região e as caçadas mostram onde você está, com setas para folhear as guardadas. As raridades leem a sua coleção inteira — mochila, depósito e time — e dizem o número da raridade de cada Pokémon, que na tela do jogo só aparece abrindo um de cada vez; dá para filtrar por faixa, ver de quem é cada número e copiar a lista. As automações — venda, compra e ginásio — passaram a andar em fila, uma de cada vez, em vez de se atropelarem quando os relógios delas se cruzam. E a agenda deixou de ser só \"a cada tantos minutos\" ou \"entre tais horas\": dá para marcar por dia da semana, por dia do mês ou um dia por mês (a última sexta, a primeira segunda), escolhendo em listas num painel que fica fechado até você querer mexer. Alt+Q abre o menu.",
       "aviso": "Automatiza ações do jogo e guarda a sua senha em texto puro no computador; se o PokePixel proibir automação, o risco é seu. Quem ainda tem as extensões avulsas instaladas deve desligá-las na janela: cada ferramenta apareceria duas vezes.",
       "atalho": "Alt+Q",
       "sites": [
@@ -13,9 +13,9 @@
         "poke.idleworld.online"
       ],
       "codigo": "https://github.com/lioncodetech/pokepixel-qualidade-de-vida",
-      "versao": "1.6.2",
-      "pacote": "https://github.com/lioncodetech/pokepixel-qualidade-de-vida/releases/download/v1.6.2/pokepixel-qualidade-de-vida-1.6.2.zip",
-      "sha256": "1e8ba9c208f9e58699b0d55b8aafe07e588d748f63448e99d5f6b5a59ea14c79"
+      "versao": "1.7.0",
+      "pacote": "https://github.com/lioncodetech/pokepixel-qualidade-de-vida/releases/download/v1.7.0/pokepixel-qualidade-de-vida-1.7.0.zip",
+      "sha256": "664474f79e868bf1ec26599b61b7f66199ea2e986f5d7365cdd301f66dc5ab3e"
     },
     {
       "id": "geral-anotacoes",
