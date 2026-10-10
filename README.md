@@ -29,7 +29,8 @@ pelo menu de extensões da janela. O catálogo existe só para poupar esse traba
 | Extensão | O que faz | Código |
 | --- | --- | --- |
 | PokePixel — qualidade de vida | As cinco ferramentas do PokePixel num pacote só, com menu `Alt+Q` | [repositório](https://github.com/lioncodetech/pokepixel-qualidade-de-vida) |
-| Geral — anotações | Quadros de anotações flutuantes em qualquer site, `Alt+X` / `Alt+Z` | [repositório](https://github.com/lioncodetech/geral-anotacoes) |
+| Geral — anotações | Quadros de anotações flutuantes em qualquer site, `Alt+P` / `Alt+O` | [repositório](https://github.com/lioncodetech/geral-anotacoes) |
+| Poke Idle World — qualidade de vida | Captura automática, loja, caçadas, times e escada de níveis, com menu `Alt+Q` | [repositório](https://github.com/lioncodetech/pokeidleworld-qualidade-de-vida) |
 
 ### As avulsas saíram da lista
 
