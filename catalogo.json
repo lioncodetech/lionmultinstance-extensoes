@@ -29,6 +29,21 @@
       "versao": "1.0.4",
       "pacote": "https://github.com/lioncodetech/geral-anotacoes/releases/download/v1.0.4/geral-anotacoes-1.0.4.zip",
       "sha256": "0d4d0e0fa7320ec94d46c1d026bcdf3beac779d2a94164f7da5c4b7e877b3ebf"
+    },
+    {
+      "id": "pokeidleworld-qualidade-de-vida",
+      "jogo": "Poke Idle World",
+      "nome": "Poke Idle World — qualidade de vida",
+      "resumo": "Seis ferramentas do Poke Idle World num pacote só, com um menu para mostrar, esconder, ligar e desligar cada uma na janela. A captura automática lança a pokébola assim que o selvagem aparece e espera o tempo que o próprio jogo informa no botão, em vez de cronometrar por conta própria — e continua funcionando com a aba escondida, que é como se joga em várias janelas. A Loja do Mark compra em lote e vende com auditoria: antes de confirmar confere três fontes independentes (as marcações, o número no botão e o popup) e cancela se qualquer uma divergir ou desaparecer, porque uma venda errada apaga um pokémon e não volta. O ciclo (Alt+K) sai da caçada, vende, reabastece e devolve você à mesma caçada, inclusive quando falha no meio. As Caçadas guardam as que você usa e levam a qualquer uma num clique, cada uma com o seu time. Os Times guardam equipes de seis e as remontam no Depósito, interleaveando tirar e pôr porque o jogo trava o Box com a equipe cheia e recusa deixá-la vazia; dá para manter a ordem exata da equipe (o 1º é o líder), e a equipe passa pela Enfermeira Joy antes de viajar — equipe desmaiada não sai do lugar, e o jogo recusa a viagem sem dizer que recusou. A Escada de caçadas troca de caçada sozinha quando o líder sobe de nível: você escreve os degraus (Lv 1 → Togepi, Lv 20 → Meowth) e ela leva, uma vez por degrau, sem arrastar você de volta se sair dali à mão; o painel diz sempre por que fez ou não fez. Cada painel lembra se estava à vista e onde foi largado, e cada um nasce num canto diferente, longe do HUD, do chat e do painel de captura do próprio jogo. As automações andam em fila, uma de cada vez. Alt+Q abre o menu.",
+      "aviso": "Automatiza ações do jogo. O Poke Idle World oferece captura automática como recurso VIP; se os termos dele proibirem automação, o risco é seu. O pacote do PokePixel é outro e não serve aqui.",
+      "atalho": "Alt+Q",
+      "sites": [
+        "poke.idleworld.online"
+      ],
+      "codigo": "https://github.com/lioncodetech/pokeidleworld-qualidade-de-vida",
+      "versao": "1.0.0",
+      "pacote": "https://github.com/lioncodetech/pokeidleworld-qualidade-de-vida/releases/download/v1.0.0/pokeidleworld-qualidade-de-vida-1.0.0.zip",
+      "sha256": "925b3045e2ab6387470508a423775e300fd6cf1d01b81f735470bbf03d5374e8"
     }
   ]
 }
