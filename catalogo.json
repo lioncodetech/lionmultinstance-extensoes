@@ -44,6 +44,21 @@
       "versao": "1.4.12",
       "pacote": "https://github.com/lioncodetech/pokeidleworld-qualidade-de-vida/releases/download/v1.4.12/pokeidleworld-qualidade-de-vida-1.4.12.zip",
       "sha256": "978bcbc657586f321ac813c65b1c8e09c79098335355b0cd1b19d5fcd21d06ff"
+    },
+    {
+      "id": "leveling-idle-qualidade-de-vida",
+      "jogo": "Leveling Idle",
+      "nome": "Leveling Idle — qualidade de vida",
+      "resumo": "Painel leve com resumo do personagem e automações configuráveis para caçadas, poções, mochila, party, recompensas diárias, eventos e fadiga. A escada escolhe a caça liberada mais próxima do nível-alvo e permanece na caça atual quando não encontra uma opção segura. As ações passam por uma pausa geral, registram o resultado e bloqueiam compras premium. O modo leve remove animações e pode ocultar o cenário sem apagar o HUD. Alt+Q mostra ou esconde o painel.",
+      "aviso": "Automatiza ações do jogo. O Leveling Idle está em desenvolvimento e pode alterar telas e regras; se os termos do jogo proibirem automação, o risco é seu. Venda continua exigindo confirmação manual.",
+      "atalho": "Alt+Q",
+      "sites": [
+        "levelingidle2d.com.br"
+      ],
+      "codigo": "https://github.com/lioncodetech/leveling-idle-qualidade-de-vida",
+      "versao": "0.2.3",
+      "pacote": "https://github.com/lioncodetech/leveling-idle-qualidade-de-vida/releases/download/v0.2.3/leveling-idle-qualidade-de-vida-0.2.3.zip",
+      "sha256": "019c67beba116436fde51ba9cd7507214e3db7cc10f86237893245d73824abf0"
     }
   ]
 }
