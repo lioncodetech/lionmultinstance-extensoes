@@ -49,16 +49,16 @@
       "id": "leveling-idle-qualidade-de-vida",
       "jogo": "Leveling Idle",
       "nome": "Leveling Idle — qualidade de vida",
-      "resumo": "Painel leve com resumo do personagem e automações configuráveis para caçadas, poções, mochila, party, recompensas diárias, eventos e fadiga. A escada escolhe a caça liberada mais próxima do nível-alvo e permanece na caça atual quando não encontra uma opção segura. As ações passam por uma pausa geral, registram o resultado e bloqueiam compras premium. Os pontos de status são distribuídos sozinhos sempre que houver pontos livres, por uma das 3 builds da classe que o jogo oferece ou por uma build sua, com um peso para cada atributo. Os pontos de talento seguem uma lista em ordem, com o nível de cada talento, subindo sozinhos os pré-requisitos que exigem nível mínimo; nos dois casos a janela fecha ao terminar. O modo leve remove animações e pode ocultar o cenário sem apagar o HUD; Alt+G desliga os gráficos e Alt+H liga de novo. Alt+Q mostra ou esconde o painel.",
+      "resumo": "Painel leve com resumo do personagem e automações configuráveis para caçadas, poções, mochila, party, recompensas diárias, eventos e fadiga. A escada escolhe a caça liberada mais próxima do nível-alvo e permanece na caça atual quando não encontra uma opção segura. As ações passam por uma pausa geral, registram o resultado e bloqueiam compras premium. Os pontos de status são distribuídos sozinhos sempre que houver pontos livres, por uma das 3 builds da classe que o jogo oferece ou por uma build sua, com um peso para cada atributo. Os pontos de talento seguem uma lista em ordem, com o nível de cada talento, subindo sozinhos os pré-requisitos que exigem nível mínimo; nos dois casos a janela fecha ao terminar. O equipamento pode ser trocado sozinho pelo botão Equipar melhores do próprio jogo, ao subir de nível e a cada 10 minutos. O modo leve remove animações e pode ocultar o cenário sem apagar o HUD; Alt+G desliga os gráficos e Alt+H liga de novo. Alt+Q mostra ou esconde o painel.",
       "aviso": "Automatiza ações do jogo. O Leveling Idle está em desenvolvimento e pode alterar telas e regras; se os termos do jogo proibirem automação, o risco é seu. Venda continua exigindo confirmação manual.",
       "atalho": "Alt+Q",
       "sites": [
         "levelingidle2d.com.br"
       ],
       "codigo": "https://github.com/lioncodetech/leveling-idle-qualidade-de-vida",
-      "versao": "0.4.0",
-      "pacote": "https://github.com/lioncodetech/leveling-idle-qualidade-de-vida/releases/download/v0.4.0/leveling-idle-qualidade-de-vida-0.4.0.zip",
-      "sha256": "444fd3d05f4b149d0ba389638a31f0ebae2df98f6e9dd696c8303fc009dbd390"
+      "versao": "0.5.0",
+      "pacote": "https://github.com/lioncodetech/leveling-idle-qualidade-de-vida/releases/download/v0.5.0/leveling-idle-qualidade-de-vida-0.5.0.zip",
+      "sha256": "18cca6787e8a0c34c407ca87283c0e721b5fc179be1345cb75a358f288deb74e"
     }
   ]
 }
