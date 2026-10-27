@@ -1,0 +1,18 @@
+name: Conferir o catálogo
+
+# Em todo push e em todo pull request, porque o estrago de um catálogo errado não aparece aqui:
+# aparece no app de quem tenta instalar, com a instalação cancelada.
+on:
+  push:
+  pull_request:
+
+jobs:
+  conferir:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      # Baixa cada pacote e confere a soma, do jeito que o LionMultInstance confere.
+      - run: node conferir.mjs
